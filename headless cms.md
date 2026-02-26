@@ -1,6 +1,8 @@
 <div align=center>
 
 # CMS
+
+[![wakatime](https://wakatime.com/badge/user/233b40bd-5512-4e3e-9573-916f7b4127c3/project/c039ba3c-f16d-43be-8294-da471d0c8672.svg)](https://wakatime.com/badge/user/233b40bd-5512-4e3e-9573-916f7b4127c3/project/c039ba3c-f16d-43be-8294-da471d0c8672)
 </div>
 
 
